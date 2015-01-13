@@ -1,0 +1,16 @@
+
+body {
+		background-color: rgb(225, 25, 150);
+		background-image: url("images/Background.jpg");
+    	background-repeat: no-repeat;
+    	background-attachment: fixed;
+
+a {
+	<p style="color:white;">This text is red.</p>
+
+}
+
+.resize {
+    width: 650px;
+    height: 500px;
+}
